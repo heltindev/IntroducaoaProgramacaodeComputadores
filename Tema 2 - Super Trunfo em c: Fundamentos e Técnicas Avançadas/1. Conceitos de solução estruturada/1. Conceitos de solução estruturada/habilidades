@@ -1,0 +1,33 @@
+Decomposição
+Consiste em dividir o problema inicial em partes menores,
+permitindo que cada parte menor seja mais facilmente resolvida.
+Geralmente, problemas que não estão decompostos têm sua resolução mais difícil de enxergar e desenvolver.
+Por exemplo, se você quer calcular a média de notas,
+pode dividir em: ler as notas, somar as notas,
+dividir pelo número de notas.
+
+Reconhecimento de padrões
+Ao decompor um problema em partes menores,
+fica mais fácil focar os detalhes e perceber que algumas dessas partes já são conhecidas ou têm soluções conhecidas.
+O reconhecimento de padrões envolve identificar repetições ou regras, o que pode ajudar a resolver problemas similares.
+Por exemplo, se você sabe calcular a média de três números,
+pode usar a mesma lógica para calcular a média de cinco números ou a média das temperaturas de uma semana. 
+
+Abstração
+Consiste na filtragem e classificação dos dados, concentrando a atenção no que realmente é importante.
+Ela pode ser vista como o principal dos pilares,
+pois será utilizada em diversos momentos. Ao concentrar-se nos dados realmente importantes,
+a abstração permite que decisões sejam tomadas com maior qualidade.
+Por exemplo, ao calcular a média, não importa o nome do aluno, apenas as notas.
+
+Algoritmos
+São procedimentos para resolver um problema,
+detalhando as ações a serem executadas e a ordem em que devem ocorrer.
+Um algoritmo é como uma receita de bolo: uma lista de instruções claras e precisas.
+Por exemplo,
+uma lista resumida de passos para fazer um bolo seria:
+Reúna os ingredientes 
+Misture os ingredientes 
+Prepare a forma 
+Asse o bolo 
+Deixe esfriar e sirva. 
