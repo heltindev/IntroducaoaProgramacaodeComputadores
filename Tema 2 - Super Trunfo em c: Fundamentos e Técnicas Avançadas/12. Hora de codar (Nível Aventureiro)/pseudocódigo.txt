@@ -1,0 +1,4 @@
+iniciar o programa
+Mensagem para receber o primeiro dado e o segundo dado
+Operação de calculo da media
+exibir a media
